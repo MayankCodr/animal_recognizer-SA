@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn{
+    background-color: red;
+    color: white;
+    margin: 10px;
+}
+
+.btn:hover{
+
+    background-color: white;
+    color: red;
+    border: none;
+    border: 2px solid red;
+}
+.outline{
+    background-color: rgb(222, 243, 149);
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.main_div{
+    background-color: aqua;
+
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(167, 161, 161);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: aliceblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(157, 155, 155);
+}
